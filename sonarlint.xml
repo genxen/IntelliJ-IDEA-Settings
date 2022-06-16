@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.apps.hagercloud.com/production/" />
+          <token>df9adfc9df9edf9adf98dfccdf9edfcbdf92dfcbdf9edfccdf98df9fdf98dfccdfcfdf9edf99dfc8df9bdf9edfccdf93df9cdf98df9adf9bdfccdf9adf9bdf9bdfcfdf9fdf99df9bdf9cdf99dfc8dfcf</token>
+          <option name="name" value="Hager Sonar" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
