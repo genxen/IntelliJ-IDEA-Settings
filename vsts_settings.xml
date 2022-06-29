@@ -1,44 +1,7 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="https://tfs/tfs/DefaultCollection/IPDoorphone/_git/Doorphone" />
-          <option name="serverUri" value="https://tfs/tfs" />
-          <option name="userId" value="9f36a393-b4d6-4a6b-aceb-b672da2c7a3b" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;952accf3-221a-4619-8861-0fcc9e513395&quot;,&quot;name&quot;:&quot;DefaultCollection&quot;,&quot;url&quot;:&quot;https://tfs/tfs/_apis/projectCollections/952accf3-221a-4619-8861-0fcc9e513395&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Project Name : BIRDIE GATEWAY DOORPHONE&quot;,&quot;id&quot;:&quot;1fc56a21-20f6-47a3-985b-870a8f6c960c&quot;,&quot;name&quot;:&quot;IPDoorphone&quot;,&quot;revision&quot;:246693,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/projects/1fc56a21-20f6-47a3-985b-870a8f6c960c&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;d3bb79e7-e780-40e6-b547-6dde8d5ac523&quot;,&quot;name&quot;:&quot;Doorphone&quot;,&quot;remoteUrl&quot;:&quot;https://tfs/tfs/DefaultCollection/IPDoorphone/_git/Doorphone&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/git/repositories/d3bb79e7-e780-40e6-b547-6dde8d5ac523&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Project Name : BIRDIE GATEWAY DOORPHONE&quot;,&quot;id&quot;:&quot;1fc56a21-20f6-47a3-985b-870a8f6c960c&quot;,&quot;name&quot;:&quot;IPDoorphone&quot;,&quot;revision&quot;:246693,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/projects/1fc56a21-20f6-47a3-985b-870a8f6c960c&quot;}}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="http://_TFS_LAST_USED_URL_" />
-          <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
-          <option name="userId" value="9f36a393-b4d6-4a6b-aceb-b672da2c7a3b" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;952accf3-221a-4619-8861-0fcc9e513395&quot;,&quot;name&quot;:&quot;DefaultCollection&quot;,&quot;url&quot;:&quot;https://tfs/tfs/_apis/projectCollections/952accf3-221a-4619-8861-0fcc9e513395&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;HG.FWK_OSGI\nHager OSGi Framework Hager Controls \n&quot;,&quot;id&quot;:&quot;769a1198-acab-40ea-ad3b-cc52f2d53728&quot;,&quot;name&quot;:&quot;HG.FWK_OSGI&quot;,&quot;revision&quot;:248047,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/projects/769a1198-acab-40ea-ad3b-cc52f2d53728&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;898c42a3-f430-4676-afdc-9e7afe5be28b&quot;,&quot;name&quot;:&quot;comp.utility.utils&quot;,&quot;remoteUrl&quot;:&quot;https://tfs/tfs/DefaultCollection/HG.FWK_OSGI/_git/comp.utility.utils&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/git/repositories/898c42a3-f430-4676-afdc-9e7afe5be28b&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;HG.FWK_OSGI\nHager OSGi Framework Hager Controls \n&quot;,&quot;id&quot;:&quot;769a1198-acab-40ea-ad3b-cc52f2d53728&quot;,&quot;name&quot;:&quot;HG.FWK_OSGI&quot;,&quot;revision&quot;:248047,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/projects/769a1198-acab-40ea-ad3b-cc52f2d53728&quot;}}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="https://tfs/tfs/DefaultCollection/HG.FWK_OSGI/_git/comp.utility.utils" />
-          <option name="serverUri" value="https://tfs/tfs" />
-          <option name="userId" value="9f36a393-b4d6-4a6b-aceb-b672da2c7a3b" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;952accf3-221a-4619-8861-0fcc9e513395&quot;,&quot;name&quot;:&quot;DefaultCollection&quot;,&quot;url&quot;:&quot;https://tfs/tfs/_apis/projectCollections/952accf3-221a-4619-8861-0fcc9e513395&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;HG.FWK_OSGI\nHager OSGi Framework Hager Controls \n&quot;,&quot;id&quot;:&quot;769a1198-acab-40ea-ad3b-cc52f2d53728&quot;,&quot;name&quot;:&quot;HG.FWK_OSGI&quot;,&quot;revision&quot;:248047,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/projects/769a1198-acab-40ea-ad3b-cc52f2d53728&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;898c42a3-f430-4676-afdc-9e7afe5be28b&quot;,&quot;name&quot;:&quot;comp.utility.utils&quot;,&quot;remoteUrl&quot;:&quot;https://tfs/tfs/DefaultCollection/HG.FWK_OSGI/_git/comp.utility.utils&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/git/repositories/898c42a3-f430-4676-afdc-9e7afe5be28b&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;HG.FWK_OSGI\nHager OSGi Framework Hager Controls \n&quot;,&quot;id&quot;:&quot;769a1198-acab-40ea-ad3b-cc52f2d53728&quot;,&quot;name&quot;:&quot;HG.FWK_OSGI&quot;,&quot;revision&quot;:248047,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/projects/769a1198-acab-40ea-ad3b-cc52f2d53728&quot;}}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="https://tfs/tfs/DefaultCollection/HG.FWK_OSGI/_git/comp.iot.flow" />
-          <option name="serverUri" value="https://tfs/tfs" />
-          <option name="userId" value="9f36a393-b4d6-4a6b-aceb-b672da2c7a3b" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;952accf3-221a-4619-8861-0fcc9e513395&quot;,&quot;name&quot;:&quot;DefaultCollection&quot;,&quot;url&quot;:&quot;https://tfs/tfs/_apis/projectCollections/952accf3-221a-4619-8861-0fcc9e513395&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;HG.FWK_OSGI\nHager OSGi Framework Hager Controls \n&quot;,&quot;id&quot;:&quot;769a1198-acab-40ea-ad3b-cc52f2d53728&quot;,&quot;name&quot;:&quot;HG.FWK_OSGI&quot;,&quot;revision&quot;:248047,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/projects/769a1198-acab-40ea-ad3b-cc52f2d53728&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;9398ae26-7b99-44ca-ad52-91c286c8b6be&quot;,&quot;name&quot;:&quot;comp.iot.flow&quot;,&quot;remoteUrl&quot;:&quot;https://tfs/tfs/DefaultCollection/HG.FWK_OSGI/_git/comp.iot.flow&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/git/repositories/9398ae26-7b99-44ca-ad52-91c286c8b6be&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;HG.FWK_OSGI\nHager OSGi Framework Hager Controls \n&quot;,&quot;id&quot;:&quot;769a1198-acab-40ea-ad3b-cc52f2d53728&quot;,&quot;name&quot;:&quot;HG.FWK_OSGI&quot;,&quot;revision&quot;:248047,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/projects/769a1198-acab-40ea-ad3b-cc52f2d53728&quot;}}" />
-        </ServerContextState>
-      </array>
+      <array />
     </option>
     <option name="properties">
       <array>

@@ -1,5 +1,8 @@
 <code_scheme name="Hager IDE" version="173">
   <option name="RIGHT_MARGIN" value="145" />
+  <JSCodeStyleSettings version="0">
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="40" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="40" />
@@ -8,6 +11,9 @@
     </option>
     <option name="JD_PARAM_DESCRIPTION_ON_NEW_LINE" value="true" />
   </JavaCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
