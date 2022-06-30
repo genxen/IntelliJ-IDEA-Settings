@@ -3,7 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="!*Test.java" />
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>!*Test*</mask>
@@ -14,9 +14,10 @@
     <mask>!*Test*.java,*java</mask>
     <mask>*Test*.java</mask>
     <mask>!*Test*.java</mask>
-    <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>*.ts</mask>
+    <mask>*.java</mask>
+    <mask>!*Test.java</mask>
   </component>
 </application>
