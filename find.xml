@@ -1,10 +1,22 @@
 <application>
   <component name="FindSettings">
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*.xml</mask>
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
+    <mask>!*Test*</mask>
+    <mask>!**.java</mask>
+    <mask>*.xml</mask>
+    <mask>*Test.java</mask>
+    <mask>!*Test**.java</mask>
+    <mask>!*Test*.java,*java</mask>
+    <mask>*Test*.java</mask>
+    <mask>!*Test*.java</mask>
+    <mask>*.css</mask>
     <mask>*.java</mask>
+    <mask>!*Test.java</mask>
+    <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
