@@ -16,7 +16,9 @@
     <mask>*.css</mask>
     <mask>*.java</mask>
     <mask>!*Test.java</mask>
-    <mask>*.ts</mask>
+    <mask>!*spec.ts</mask>
     <mask>*.html</mask>
+    <mask>*spec.ts</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
