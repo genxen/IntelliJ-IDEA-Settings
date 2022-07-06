@@ -3,5 +3,8 @@
     <local-interpreter path="$USER_HOME$/.nodenv/shims/node">
       <version-cache version="16.15.0" last-modified="1656754141776" />
     </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="16.15.0" last-modified="1656754141776" />
+    </local-interpreter>
   </component>
 </application>
