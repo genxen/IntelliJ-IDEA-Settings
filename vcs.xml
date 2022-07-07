@@ -6,6 +6,10 @@
           <option name="url" value="http://tfs" />
           <option name="userName" value="naujacg" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://tfs.hager.corp" />
+          <option name="userName" value="naujacg" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
