@@ -37,6 +37,9 @@
             <Goal>
               <option name="commandLine" value="mvn clean cobertura:cobertura" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="cobertura:cobertura" />
+            </Goal>
           </list>
         </option>
       </Goals>
