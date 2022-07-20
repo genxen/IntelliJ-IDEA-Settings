@@ -1,35 +1,7 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="https://tfs/tfs/DefaultCollection/IPDoorphone/_git/Doorphone" />
-          <option name="serverUri" value="https://tfs/tfs" />
-          <option name="userId" value="9f36a393-b4d6-4a6b-aceb-b672da2c7a3b" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;952accf3-221a-4619-8861-0fcc9e513395&quot;,&quot;name&quot;:&quot;DefaultCollection&quot;,&quot;url&quot;:&quot;https://tfs/tfs/_apis/projectCollections/952accf3-221a-4619-8861-0fcc9e513395&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Project Name : BIRDIE GATEWAY DOORPHONE&quot;,&quot;id&quot;:&quot;1fc56a21-20f6-47a3-985b-870a8f6c960c&quot;,&quot;name&quot;:&quot;IPDoorphone&quot;,&quot;revision&quot;:248116,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/projects/1fc56a21-20f6-47a3-985b-870a8f6c960c&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;d3bb79e7-e780-40e6-b547-6dde8d5ac523&quot;,&quot;name&quot;:&quot;Doorphone&quot;,&quot;remoteUrl&quot;:&quot;https://tfs/tfs/DefaultCollection/IPDoorphone/_git/Doorphone&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/git/repositories/d3bb79e7-e780-40e6-b547-6dde8d5ac523&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Project Name : BIRDIE GATEWAY DOORPHONE&quot;,&quot;id&quot;:&quot;1fc56a21-20f6-47a3-985b-870a8f6c960c&quot;,&quot;name&quot;:&quot;IPDoorphone&quot;,&quot;revision&quot;:248116,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/projects/1fc56a21-20f6-47a3-985b-870a8f6c960c&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="http://_TFS_LAST_USED_URL_" />
-          <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
-          <option name="userId" value="9f36a393-b4d6-4a6b-aceb-b672da2c7a3b" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;952accf3-221a-4619-8861-0fcc9e513395&quot;,&quot;name&quot;:&quot;DefaultCollection&quot;,&quot;url&quot;:&quot;https://tfs/tfs/_apis/projectCollections/952accf3-221a-4619-8861-0fcc9e513395&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Main contact : BOISDÉ Matthieu\nBG Building Automation, Hager Controls Bordeaux&quot;,&quot;id&quot;:&quot;5fc9c5b5-8126-4a73-8d74-fae9e1fd31f8&quot;,&quot;name&quot;:&quot;Multi-ApplicationsHBox&quot;,&quot;revision&quot;:248091,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/projects/5fc9c5b5-8126-4a73-8d74-fae9e1fd31f8&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;cb0443c1-e295-437d-8ab5-d1bf12226934&quot;,&quot;name&quot;:&quot;Multi-ApplicationsHBox&quot;,&quot;remoteUrl&quot;:&quot;https://tfs/tfs/DefaultCollection/Multi-ApplicationsHBox/_git/Multi-ApplicationsHBox&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/git/repositories/cb0443c1-e295-437d-8ab5-d1bf12226934&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Main contact : BOISDÉ Matthieu\nBG Building Automation, Hager Controls Bordeaux&quot;,&quot;id&quot;:&quot;5fc9c5b5-8126-4a73-8d74-fae9e1fd31f8&quot;,&quot;name&quot;:&quot;Multi-ApplicationsHBox&quot;,&quot;revision&quot;:248091,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/projects/5fc9c5b5-8126-4a73-8d74-fae9e1fd31f8&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="https://tfs/tfs/DefaultCollection/Multi-ApplicationsHBox/_git/Multi-ApplicationsHBox" />
-          <option name="serverUri" value="https://tfs/tfs" />
-          <option name="userId" value="9f36a393-b4d6-4a6b-aceb-b672da2c7a3b" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;952accf3-221a-4619-8861-0fcc9e513395&quot;,&quot;name&quot;:&quot;DefaultCollection&quot;,&quot;url&quot;:&quot;https://tfs/tfs/_apis/projectCollections/952accf3-221a-4619-8861-0fcc9e513395&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Main contact : BOISDÉ Matthieu\nBG Building Automation, Hager Controls Bordeaux&quot;,&quot;id&quot;:&quot;5fc9c5b5-8126-4a73-8d74-fae9e1fd31f8&quot;,&quot;name&quot;:&quot;Multi-ApplicationsHBox&quot;,&quot;revision&quot;:248091,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/projects/5fc9c5b5-8126-4a73-8d74-fae9e1fd31f8&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;cb0443c1-e295-437d-8ab5-d1bf12226934&quot;,&quot;name&quot;:&quot;Multi-ApplicationsHBox&quot;,&quot;remoteUrl&quot;:&quot;https://tfs/tfs/DefaultCollection/Multi-ApplicationsHBox/_git/Multi-ApplicationsHBox&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/git/repositories/cb0443c1-e295-437d-8ab5-d1bf12226934&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Main contact : BOISDÉ Matthieu\nBG Building Automation, Hager Controls Bordeaux&quot;,&quot;id&quot;:&quot;5fc9c5b5-8126-4a73-8d74-fae9e1fd31f8&quot;,&quot;name&quot;:&quot;Multi-ApplicationsHBox&quot;,&quot;revision&quot;:248091,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs/tfs/DefaultCollection/_apis/projects/5fc9c5b5-8126-4a73-8d74-fae9e1fd31f8&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-      </array>
+      <array />
     </option>
     <option name="properties">
       <array>
